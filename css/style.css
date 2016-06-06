@@ -1,0 +1,51 @@
+h1{
+color:white;
+text-align:center;
+font-size:3em;
+}
+
+h2{
+text-align: center;
+font-size: 4em;
+line-spacing:1em;  
+color: white;
+text-transform:all caps;
+}
+
+p{
+margin:2px;
+text-align:center;  
+color:white; 
+font-size:1.1em;
+}
+
+.gif{
+ display: none;  
+  
+}
+
+img{
+ border-radius:100%;
+  width:300px;
+  height:300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  border:solid 10px white;
+  animate:bounce;
+}
+
+
+div{
+width:33%;
+float:left;
+  
+}
+
+html{
+background: #F0C27B; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #F0C27B , #4B1248); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #F0C27B , #4B1248); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+}
